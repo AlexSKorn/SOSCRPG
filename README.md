@@ -1,2 +1,2 @@
 # SOSCRPG
-C# RPG learning C#
+C# RPG 
